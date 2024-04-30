@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486523941614",
+    "project_id": "course-hotelio-e2cea",
+    "storage_bucket": "course-hotelio-e2cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486523941614:android:5153fb568858a84bbbf9ff",
+        "android_client_info": {
+          "package_name": "com.drexapp.hotelio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUOqf0cDn568fQH8Es9nU861slhfNzqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
